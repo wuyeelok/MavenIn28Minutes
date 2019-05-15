@@ -22,3 +22,9 @@ hs_err_pid*
 
 # mac os
 .DS_Store
+*/.DS_Store
+3.multi-module-maven-project/.DS_Store
+1.basic-maven-example/.DS_Store
+2.intermediate-maven-example/.DS_Store
+4.web-application-with-maven/.DS_Store
+4.web-application-with-maven/in28minutes-web-servlet-jsp/.DS_Store
