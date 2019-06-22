@@ -10,8 +10,8 @@
 	<artifactId>business</artifactId>
 	<dependencies>
 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
+			<groupId>com.kenneth</groupId>
+			<artifactId>data</artifactId>
 		</dependency>
 	</dependencies>
 </project>

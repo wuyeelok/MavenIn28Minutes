@@ -13,6 +13,11 @@
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
+				<groupId>com.kenneth</groupId>
+				<artifactId>data</artifactId>
+				<version>${project.version}</version>
+			</dependency>
+			<dependency>
 				<groupId>org.springframework</groupId>
 				<artifactId>spring-context</artifactId>
 				<version>4.1.0.RELEASE</version>
